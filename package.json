@@ -5,7 +5,7 @@
   "type": "module",
   "scripts": {
     "dev": "vite",
-    "build": "vite build --base=/vanilla-app-template/",
+    "build": "vite build --base=/Business-promotion-bandle/",
     "preview": "vite preview"
   },
   "devDependencies": {
@@ -19,5 +19,15 @@
   "dependencies": {
     "vite-plugin-full-reload": "^1.2.0",
     "vite-plugin-html-inject": "^1.1.2"
-  }
+  },
+  "description": "test",
+  "main": "vite.config.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Bogdan-Ost/Business-promotion-bandle.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Bogdan-Ost/Business-promotion-bandle/issues"
+  },
+  "homepage": "https://github.com/Bogdan-Ost/Business-promotion-bandle#readme"
 }
